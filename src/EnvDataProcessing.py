@@ -6,3 +6,5 @@ Created on 17.06.2019
 
 if __name__ == '__main__':
     pass
+
+# just for fun
