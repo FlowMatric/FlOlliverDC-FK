@@ -50,3 +50,4 @@ plt.show()
 plt.plot(dfP1)
 plt.show()  # You must call plt.show() to make graphics appear.
 print("Did it plot?")
+
