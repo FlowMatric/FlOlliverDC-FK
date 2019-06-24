@@ -1,0 +1,9 @@
+
+
+Time Series Analysis
+
+Few dataframe operations, decomposition
+https://towardsdatascience.com/analyzing-time-series-data-in-pandas-be3887fdd621
+
+Resampling
+https://stackoverflow.com/questions/42191697/resample-daily-data-to-monthly-with-pandas-date-formatting
