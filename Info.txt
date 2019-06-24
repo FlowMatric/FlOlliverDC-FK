@@ -41,4 +41,13 @@ Introduction:
 			Can do a few different interpolation methods with 
 			
 			
-	Bedtime... ;)
+	
+	
+Current Task:
+
+1. Read precipitation data from a single gauging station in sweden. CSV in Data folder. 
+	Try to create code that runs on every machine (no absolute links, other concerns?)
+2. Display Data 
+3. Data operations: slice...?
+4. Try decomposition
+5. Bedtime...
