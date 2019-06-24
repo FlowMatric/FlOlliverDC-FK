@@ -1,0 +1,44 @@
+Coding Camp Info:
+
+Introduction:
+(FK: Everything I write is up for discussion. I sometimes have trouble getting to the point or
+	write stuff that is easy to understand...Please feel free to simply delete, edit, add or rephrase)
+	
+	
+	The Coding camp is a place to meet where individuals work on (python) coding tasks in their own speed and style. 
+	We set a shared goal for a data-management/processing/analysis task.  
+ 	Anyone can suggest meetings to e.g. present a solution or problem, ask questions, talk about the next steps or
+ 	clarify the current task at hand.
+ 	Communication through (??) Whatsapp, skype, email, github (seems a little bit advanced 
+ 		but maybe once we get a hang of software project management in github? I think this could be cool to 
+ 		define & describe the examples that re're working on in the git task repository:
+ 		https://eclipsesource.com/blogs/2012/08/28/tips-and-tricks-using-eclipse-with-github/ )
+ 	 	
+ 	We share our sample data and our code in (a) github repositories(y). If we want to learn team work with 
+ 	git we could work with a single repository. Every camp participant could make an own working branch and from time to time
+ 	we merge all banches into the master (this could contain a script or some sort of user front end to run all (working) 
+ 	team implementations.)
+ 	
+ 	Repository: https://github.com/FlowMatric/FlOlliverDC-FK
+ 	 
+	Goal...? Hmmm...ideas:  fun, quick success, motivate each other, make it easy for each other 
+	
+		Brainstorm: Why do you want to learn coding with xxx
+		
+		-FK: I guess it could be fun using this stuff at work. 
+		-FK: Doing cool stuff with AI could be interesting too. (e.g. Finding patterns in turbulent flow, 
+		-FK: Would like to  process 
+	
+	We are not limited to python...more tool agnostic? whatever simpler, prettier, more helpful is good.
+	
+	What data are we interested in?
+		Time series data, 
+			Univariate
+				Rainfall
+			Multivariate
+				Rainfall/Runoff/LandUse
+		Spatial Data
+			Can do a few different interpolation methods with 
+			
+			
+	Bedtime... ;)

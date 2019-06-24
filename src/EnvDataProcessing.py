@@ -42,7 +42,8 @@ p = dfP1["P"]
 
 
 result = seasonal_decompose(p, model='additive')
-plt.plot(result)
+result.plot()
+# plt.plot(result)
 plt.show()
 
 
