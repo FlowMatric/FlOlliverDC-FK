@@ -1,1 +1,7 @@
-an own place for stuff
+# -----------------------------------------------------------
+Oliver Zott
+08.07.2019
+# -----------------------------------------------------------
+
+- csv and other data-files in subfolder "data" (created copy, so i dont f*** up data if i change smth)
+

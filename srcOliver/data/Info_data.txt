@@ -1,0 +1,21 @@
+Info ad "smhi-opendata_5_53540_20190617_233641.csv"
+
+rainfall measured in: Stehag-Sweden
+
+Unit: millimeter
+
+meters above sea level: 89.355 / 60.0
+
+Latitude (decimal degrees): 55.881.371 / 559.033
+
+Longitud decimal degrees): 13.439.502 / 133.995
+
+
+# -----------------------------------------------------------------
+
+summa 1 dygn, 1 gång/dygn, kl 06
+
+
+Tidsperiod (fr.o.m)	Tidsperiod (t.o.m)
+01.11.1989 00:00	31.05.2019 23:59
+01.02.1957 00:00	01.08.1989 23:59
