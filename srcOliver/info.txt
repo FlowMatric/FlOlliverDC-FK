@@ -1,7 +1,17 @@
 # -----------------------------------------------------------
-Oliver Zott
-08.07.2019
+# Author: 	Oliver Zott
+# Created on: 	08.07.2019
+# Last Update: 	09.07.2019
 # -----------------------------------------------------------
 
-- csv and other data-files in subfolder "data" (created copy, so i dont f*** up data if i change smth)
+csv and other data-files in subfolder "data" (created copy, so i dont f*** up data if i change smth)
 
+Import / Export:
+1. Import csv data in into pandas dataframe (chose data columns, rows /  names / index)
+2. Export adjusted data to new csv file
+
+Data wrangling:
+1. Clean data from wrong values --> Regex to set wrong data to pd.nan (will be handled as float int/float)
+
+Resampling & first Plots
+1. Resample: year / month - sum, mean, ...
