@@ -38,7 +38,8 @@ Introduction:
 			Multivariate
 				Rainfall/Runoff/LandUse
 		Spatial Data
-			Can do a few different interpolation methods with 
+			Can do a few different interpolation methods with whatever data we want...
+			Relative Humidity...
 			
 			
 	

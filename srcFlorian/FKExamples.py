@@ -12,10 +12,13 @@ from statsmodels.tsa.seasonal import seasonal_decompose
 import matplotlib.pyplot as plt
 import os
 
+#import RunAllScripts
 
-def main():
-    examples = FKExamples()
-    examples.be_awesome()
+
+def main(): 
+    print("main wurde ausgefuehrt") # no idea what this is good for and how it could be helpful for function development...
+                                    #when one does not want to run the whole thing but just a few functions?
+    
 
 if __name__ == "__main__":
     main()
@@ -24,13 +27,15 @@ if __name__ == "__main__":
 class FKExamples:
 
     def ex1_DataImport(self):
-        os.chdir(os.environ['PROJECT_PATH'])
+        #os.chdir(os.environ['PROJECT_PATH'])
         
         # myPath = os.path.join(os.getcwd(),"..\\Data\\smhi-opendata_5_53540_20190617_233641.csv")
         
         # print(myPath)
+        #os.path.join(os.getcwd(),"..\\Data\\smhi-opendata_5_53540_20190617_233641.csv")
+        dfPath = os.path.join(os.getcwd(),"Data\\smhi-opendata_5_53540_20190617_233641.csv")
         
-        dfP = pd.read_csv("Data/smhi-opendata_5_53540_20190617_233641.csv" , skiprows=10, usecols=[2, 3, 4], sep=";")
+        dfP = pd.read_csv(dfPath , skiprows=10, usecols=[2, 3, 4], sep=";")
         dfP.columns = ["Day", "P", "Quality"]
         
         
@@ -65,4 +70,6 @@ class FKExamples:
     def runAll(self):
         self.ex1_DataImport()
     
+    def beAwesome(self):
+        print("hello world")
         

@@ -4,17 +4,19 @@ Created on 26.06.2019
 @author: fkluiben
 '''
 #from srcFlorian import srcFlorian.FKExamples    
-from Shark import Shark
+#what advantage is it to create an abstract class XXXExamples and all our individual classes inherit from it:
 from FKExamples import FKExamples
+from srcAnja.AnjaExamples import AnjaExamples
 
 #fkEx = FKExamples()
 #How to create objects and instances such as Sammy?
 #https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3
 
-sammy = Shark('Sammy')
 fk = FKExamples()
+anja = AnjaExamples()
 
 if __name__ == '__main__':
     fk.runAll()
-    sammy.swim()
-    sammy.be_awesome()
+    anja.runAll()
+    #same thing for olli
+    #

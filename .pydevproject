@@ -11,7 +11,7 @@
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/${PROJECT_DIR_NAME}</path>
 <path>/${PROJECT_DIR_NAME}/srcFlorian</path>
-<path>/${PROJECT_DIR_NAME}/tst</path>
+<path>/${PROJECT_DIR_NAME}/shared</path>
 </pydev_pathproperty>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
 >>>>>>> bd5e976c0161868d6eebff006e6b1d084a709210
